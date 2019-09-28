@@ -14,6 +14,7 @@ module Stupidedi
         autoload :B10, "stupidedi/versions/003050/segment_defs/B10"
         autoload :B2,  "stupidedi/versions/003050/segment_defs/B2"
         autoload :B2A, "stupidedi/versions/003050/segment_defs/B2A"
+        autoload :BCT, "stupidedi/versions/003050/segment_defs/BCT"
         autoload :BEG, "stupidedi/versions/003050/segment_defs/BEG"
         autoload :BGN, "stupidedi/versions/003050/segment_defs/BGN"
         autoload :BPS, "stupidedi/versions/003050/segment_defs/BPS"
